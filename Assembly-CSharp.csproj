@@ -60,6 +60,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Camera\CameraController.cs" />
+    <Compile Include="Assets\Scripts\Camera\CaptureTarget.cs" />
     <Compile Include="Assets\Scripts\Camera\ThirdPersonCameraComponent.cs" />
     <Compile Include="Assets\Scripts\Character\AnimatorController.cs" />
     <Compile Include="Assets\Scripts\Character\CharacterController.cs" />
