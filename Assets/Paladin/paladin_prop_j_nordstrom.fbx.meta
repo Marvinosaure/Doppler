@@ -159,7 +159,22 @@ ModelImporter:
     13700002: Paladin_J_Nordstrom_Helmet
     13700004: Paladin_J_Nordstrom_Shield
     13700006: Paladin_J_Nordstrom_Sword
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Paladin_diffuse
+    second: {fileID: 2800000, guid: 3a61246979e2a3948ace9685f2beff14, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Paladin_normal
+    second: {fileID: 2800000, guid: f8991866b0b049c4daf821378ed1120b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Paladin_specular
+    second: {fileID: 2800000, guid: fef2b796ef7e0f540bb4291d0c867f0b, type: 3}
   materials:
     importMaterials: 1
     materialName: 0

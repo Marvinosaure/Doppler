@@ -32,5 +32,5 @@ public class AnimatorController : MonoBehaviour
     {
         _componentAnimator.SetBool("walk", false);
         _componentAnimator.SetBool("run", false);
-    }
+    }    
 }
